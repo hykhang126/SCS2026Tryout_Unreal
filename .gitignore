@@ -1,5 +1,5 @@
 # Visual Studio 2015 user specific files
-.vs/
+/.vs/
 
 # Compiled Object files
 *.slo
@@ -74,8 +74,15 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Visual Studio
-.vs/
-
 # VS Code directory
-.vscode/
+/.vscode/
+
+#################################
+# Unreal Engine Generated Files #
+#################################
+/[Bb]uild
+/[Bb]uilds
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
